@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: home
 title: My Blog
 ---
 
-# Welcome to my blog!
+Welcome to my homepage
 
-This is hosted on GitHub Pages.
+👉 sample：[My first page](./_posts/2025-08-06-first-post.md)
+
