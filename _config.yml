@@ -1,6 +1,6 @@
 title: My Blog
 description: "My Blog"
-theme: minimal
+theme: minima
 
 #remote_theme: pages-themes/minimal@v0.2.0
 #plugins:
