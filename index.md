@@ -18,3 +18,5 @@ Welcome to my homepage
 | Llama-70B    |    80      |    8         | 8192/64=128 | GQA |
 
 
+kv_size_per_token = num_layers × num_heads × head_dim × dtype_size × 2
+kv_total_size = kv_size_per_token × context_len × batch_size
